@@ -1,0 +1,13 @@
+{
+  "name": "dr-bharti-mba-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack React & Express portfolio for Director Dr. D. B. Bharti of MBA",
+  "scripts": {
+    "dev": "node dev.js",
+    "start": "node dev.js",
+    "server": "node dev.js",
+    "client": "node dev.js",
+    "build": "node ./client/node_modules/vite/bin/vite.js build ./client"
+  }
+}

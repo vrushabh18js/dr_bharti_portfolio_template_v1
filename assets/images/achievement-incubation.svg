@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0FDF4" />
+      <stop offset="100%" stop-color="#DCFCE7" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="520" rx="16" fill="url(#bgGrad4)"/>
+
+  <!-- Incubation & Startup Ecosystem Iconography -->
+  <g transform="translate(340, 110)">
+    <!-- Lightbulb / Rocket hybrid -->
+    <path d="M 60 40 C 25 40 5 70 5 105 C 5 130 20 150 35 165 L 35 190 L 85 190 L 85 165 C 100 150 115 130 115 105 C 115 70 95 40 60 40 Z" fill="#FFFFFF" stroke="#16A34A" stroke-width="5"/>
+    <rect x="42" y="195" width="36" height="10" rx="4" fill="#64748B"/>
+    <rect x="48" y="208" width="24" height="8" rx="3" fill="#94A3B8"/>
+    <!-- Filament in gear shape -->
+    <circle cx="60" cy="110" r="18" fill="none" stroke="#F59E0B" stroke-width="5"/>
+    <path d="M 60 65 L 60 85 M 60 135 L 60 155 M 35 110 L 15 110 M 105 110 L 85 110" stroke="#F59E0B" stroke-width="4" stroke-linecap="round"/>
+    
+    <!-- Growth Arrow -->
+    <path d="M -40 180 L 10 130 L 50 150 L 150 60" fill="none" stroke="#2563EB" stroke-width="6" stroke-linecap="round"/>
+    <polyline points="135,60 150,60 150,75" fill="none" stroke="#2563EB" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Banner text -->
+  <rect x="120" y="380" width="560" height="85" rx="16" fill="#FFFFFF" fill-opacity="0.95" stroke="#BBF7D0" stroke-width="1.5"/>
+  <text x="400" y="415" font-family="'Plus Jakarta Sans', sans-serif" font-size="20" font-weight="800" fill="#14532D" text-anchor="middle">
+    Incubation &amp; Startup Mentorship Milestone
+  </text>
+  <text x="400" y="445" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="500" fill="#475569" text-anchor="middle">
+    Spearheaded Incubation Center Launch &amp; Mentored 25+ Student Ventures
+  </text>
+</svg>

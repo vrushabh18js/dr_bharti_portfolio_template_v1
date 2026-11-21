@@ -1,0 +1,263 @@
+{
+  "profile": {
+    "name": "Dr. D. B. Bharti",
+    "title": "Director | MBA Department",
+    "designation": "Director",
+    "subtitle": "Academic Leader · Management Educator · Researcher",
+    "department": "MBA Department",
+    "institution": "Dr. D. Y. Patil MBA College",
+    "email": "dr.dbbharti@gmail.com",
+    "secondaryEmail": "director.mba@dypatil.edu",
+    "phone": "+91 (0) 98765 43210",
+    "office": "Director Chamber, MBA Department, Dr. D. Y. Patil MBA College, Pune, Maharashtra",
+    "officeHours": "Monday — Friday: 10:00 AM – 4:00 PM (Research & Scholar Consultation: 2:00 PM – 4:00 PM)",
+    "tagline": "Dedicated to academic excellence, institutional development and nurturing future business leaders.",
+    "intro": "Dr. D. B. Bharti is an experienced academic professional specializing in management education, institutional leadership and student development. With a strong commitment to excellence in higher education, he focuses on bridging the gap between academic knowledge and practical industry requirements.",
+    "about": "An enthusiastic academician and management professional committed to developing future leaders through innovative teaching methodologies, research-oriented learning and industry collaboration.",
+    "portrait": "/images/profile-dr-bharti.svg"
+  },
+  "corePrinciples": [
+    {
+      "id": 1,
+      "title": "Academic Excellence",
+      "description": "Maintaining high standards in management education and curriculum governance."
+    },
+    {
+      "id": 2,
+      "title": "Innovation & Research",
+      "description": "Encouraging creative thinking, empirical inquiry, and research-driven learning."
+    },
+    {
+      "id": 3,
+      "title": "Leadership Development",
+      "description": "Preparing postgraduate management students for real-world business challenges."
+    }
+  ],
+  "areasOfExpertise": [
+    "Strategic Management",
+    "Human Resource Management",
+    "Organizational Behaviour",
+    "Business Administration",
+    "Leadership & Development",
+    "Academic Administration",
+    "Research & Innovation",
+    "Entrepreneurship Development"
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Ph.D. in Management Studies",
+      "level": "Doctoral Degree",
+      "type": "doctorate",
+      "specialization": "Management and Organizational Development",
+      "institution": "Savitribai Phule Pune University",
+      "year": "2015 – 2019",
+      "highlight": "Research specialization in Management and Organizational Development."
+    },
+    {
+      "id": 2,
+      "degree": "Master of Business Administration (MBA)",
+      "level": "Master's Degree",
+      "type": "masters",
+      "specialization": "Human Resource Management",
+      "institution": "University of Pune",
+      "year": "2008 – 2010",
+      "highlight": "Specialization in Human Resource Management (HRM) and Organizational Dynamics."
+    },
+    {
+      "id": 3,
+      "degree": "Bachelor of Commerce (B.Com.)",
+      "level": "Bachelor's Degree",
+      "type": "bachelors",
+      "specialization": "Commerce, Accounting & Business Administration",
+      "institution": "University of Pune",
+      "year": "2005 – 2008",
+      "highlight": "Rigorous academic foundation in commerce, financial accounting, and business administration."
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Director",
+      "organization": "Dr. D. Y. Patil MBA College",
+      "tenure": "2022 — Present",
+      "current": true,
+      "description": "Leading academic operations, institutional development, faculty coordination and strategic initiatives for the MBA department.",
+      "milestones": [
+        "Directing overall academic governance and contemporary management curriculum delivery.",
+        "Facilitating faculty coordination, academic accreditations, and quality enhancement benchmarks.",
+        "Driving student career readiness, industry immersion, and leadership development programs."
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Associate Professor",
+      "organization": "Management Studies Institute, Pune",
+      "tenure": "2017 — 2022",
+      "current": false,
+      "description": "Delivered management lectures, mentored students and contributed to academic research.",
+      "milestones": [
+        "Taught core subjects across Strategic Management and Human Resource Management.",
+        "Mentored student cohorts on live business research projects and industry seminars.",
+        "Contributed to departmental academic committee reviews and conference planning."
+      ]
+    },
+    {
+      "id": 3,
+      "role": "Assistant Professor",
+      "organization": "Business Management College, Maharashtra",
+      "tenure": "2012 — 2017",
+      "current": false,
+      "description": "Taught core management subjects and supported student development initiatives.",
+      "milestones": [
+        "Delivered classroom lectures and interactive case study discussions for postgraduates.",
+        "Organized student skill enhancement workshops, seminars, and corporate guest sessions.",
+        "Active member of examination and student grievance redressal committees."
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-1",
+      "title": "Excellence in Academic Leadership Award",
+      "category": "awards",
+      "date": "Annual Conclave • 2024",
+      "awardingBody": "Higher Education & Management Leadership Forum",
+      "description": "Conferred in recognition of distinguished academic leadership and institutional development in management education.",
+      "imageUrl": "/images/achievement-award.svg",
+      "badge": "Leadership Award"
+    },
+    {
+      "id": "ach-2",
+      "title": "Outstanding Contribution to Management Education",
+      "category": "awards",
+      "date": "Management Educators Summit • 2023",
+      "awardingBody": "State Management Educators Council",
+      "description": "Honored for dedicated contributions to innovative pedagogy, curriculum enrichment, and student career advancement.",
+      "imageUrl": "/images/achievement-keynote.svg",
+      "badge": "Education Award"
+    },
+    {
+      "id": "ach-3",
+      "title": "Best Faculty Mentor Recognition",
+      "category": "awards",
+      "date": "Institutional Honors • 2022",
+      "awardingBody": "Management Studies Institute",
+      "description": "Awarded for exceptional mentorship of postgraduate management students and guidance in research projects.",
+      "imageUrl": "/images/achievement-research.svg",
+      "badge": "Best Mentor"
+    },
+    {
+      "id": "ach-4",
+      "title": "Organization of National Management Seminars & Conferences",
+      "category": "keynotes",
+      "date": "National Summit • 2023",
+      "awardingBody": "University & Professional Bodies",
+      "description": "Convened and organized national-level management seminars bringing together corporate practitioners, deans, and academic researchers.",
+      "imageUrl": "/images/achievement-convocation.svg",
+      "badge": "Conference Chair"
+    },
+    {
+      "id": "ach-5",
+      "title": "Postgraduate Research Guidance & Academic Projects",
+      "category": "incubation",
+      "date": "Research Initiative • 2024",
+      "awardingBody": "MBA Department",
+      "description": "Successfully guided and mentored postgraduate management students through high-impact research dissertations and industry case studies.",
+      "imageUrl": "/images/achievement-mou.svg",
+      "badge": "Research Mentor"
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "title": "Emerging Trends in Modern Management Education",
+      "journal": "Management Education Review",
+      "year": "2025",
+      "tags": ["Management Education", "Curriculum Design", "Modern Trends"]
+    },
+    {
+      "id": 2,
+      "title": "Role of Artificial Intelligence in Business Management",
+      "journal": "Journal of Advanced Business & Technology",
+      "year": "2024",
+      "tags": ["Artificial Intelligence", "Business Strategy", "Decision Making"]
+    },
+    {
+      "id": 3,
+      "title": "Leadership and Organizational Effectiveness",
+      "journal": "International Journal of Organizational Dynamics",
+      "year": "2023",
+      "tags": ["Organizational Behavior", "Leadership", "HRM"]
+    },
+    {
+      "id": 4,
+      "title": "Digital Transformation in Higher Education",
+      "journal": "Higher Education Perspectives",
+      "year": "2022",
+      "tags": ["EdTech", "Digital Learning", "Institutional Strategy"]
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Excellence in Academic Leadership Award Ceremony",
+      "category": "awards",
+      "date": "Annual Conclave • 2024",
+      "awardingBody": "Higher Education & Leadership Forum",
+      "description": "Conferred the prestigious Academic Leadership Award for strategic MBA governance and institutional excellence.",
+      "imageUrl": "/images/achievement-award.svg",
+      "tag": "Leadership Award"
+    },
+    {
+      "id": "gal-2",
+      "title": "Keynote Address on Future-Ready Management Education",
+      "category": "keynotes",
+      "date": "National Educators Summit • 2023",
+      "awardingBody": "Management Educators Council",
+      "description": "Delivering an invited keynote address on AI in Business Management and modern pedagogical frameworks.",
+      "imageUrl": "/images/achievement-keynote.svg",
+      "tag": "Keynote Speaker"
+    },
+    {
+      "id": "gal-3",
+      "title": "Annual Convocation & MBA Degree Conferral",
+      "category": "convocations",
+      "date": "University Convocation • 2024",
+      "awardingBody": "MBA Department",
+      "description": "Presiding over the graduation ceremony and conferring degrees to postgraduate management scholars.",
+      "imageUrl": "/images/achievement-convocation.svg",
+      "tag": "Convocation"
+    },
+    {
+      "id": "gal-4",
+      "title": "Industry-Academia Corporate MoU Signing",
+      "category": "corporate",
+      "date": "Corporate Alliances • 2023",
+      "awardingBody": "Industry Chambers & MNCs",
+      "description": "Establishing corporate linkages and live consulting labs for MBA student executive immersion.",
+      "imageUrl": "/images/achievement-mou.svg",
+      "tag": "Corporate MoU"
+    },
+    {
+      "id": "gal-5",
+      "title": "Postgraduate Student Mentorship & Research Guidance",
+      "category": "mentorship",
+      "date": "Research Initiative • 2024",
+      "awardingBody": "Dr. D. Y. Patil MBA College",
+      "description": "Guiding postgraduate scholars through case study methodology, business analytics, and thesis defenses.",
+      "imageUrl": "/images/achievement-incubation.svg",
+      "tag": "Student Mentorship"
+    },
+    {
+      "id": "gal-6",
+      "title": "National Management Research Seminar & Conclave",
+      "category": "keynotes",
+      "date": "Research Summit • 2024",
+      "awardingBody": "University & Academic Bodies",
+      "description": "Convening national management research symposium on Strategic Management and Organizational Agility.",
+      "imageUrl": "/images/achievement-research.svg",
+      "tag": "Research Chair"
+    }
+  ]
+}
