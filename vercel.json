@@ -1,7 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "vite",
-  "buildCommand": "pnpm --dir client build",
+  "buildCommand": "pnpm --filter dr-bharti-portfolio-client build",
   "outputDirectory": "client/dist",
   "installCommand": "pnpm install",
   "rewrites": [

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Full-stack React & Express portfolio for Director Dr. D. B. Bharti of MBA",
-  "packageManager": "pnpm@9.15.9",
+  "packageManager": "pnpm@9.15.4",
   "scripts": {
     "dev": "node dev.js",
     "start": "node dev.js",
@@ -14,5 +14,10 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.2"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
   }
 }
