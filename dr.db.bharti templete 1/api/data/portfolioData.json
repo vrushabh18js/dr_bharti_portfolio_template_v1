@@ -1,0 +1,715 @@
+{
+  "profile": {
+    "name": "Prof. (Dr.) Devidas B. Bharati",
+    "shortName": "Dr. D. B. Bharati",
+    "title": "Director | Management & Commerce Educator | Ph.D. Research Guide",
+    "designation": "Director & Professor",
+    "subtitle": "Ph.D. (Banking & Finance) · Former Chairman, Finance Board SPPU · 43+ Years Academic Leadership",
+    "department": "Commerce & Management",
+    "institution": "Savitribai Phule Pune University (SPPU) Affiliated Institutes",
+    "email": "drdbbharati@gmail.com",
+    "secondaryEmail": "dbbharati@rediffmail.com",
+    "phone": "+91 98221 86229",
+    "altPhone": "020-25393523",
+    "office": "A-6, Bhelke Park, Kothrud, Pune – 411038, Maharashtra, India",
+    "officeHours": "Monday — Saturday: 10:00 AM – 5:00 PM (Research Scholar Consultation & Academic Guidance)",
+    "tagline": "43+ Years of Distinguished Academic Leadership, Doctoral Research Guidance, and Financial Pedagogy.",
+    "intro": "Prof. (Dr.) Devidas B. Bharati is an accomplished academic leader, former Director, and recognized Ph.D. guide with over 43 years of dedicated service in higher education under Savitribai Phule Pune University (SPPU). An authority in Banking & Finance, Advanced Accountancy, Costing, and Direct/Indirect Taxation, he has shaped generations of management professionals and researchers.",
+    "about": "Throughout his 43-year career, Dr. Bharati served for 24 years at the prestigious Brihan Maharashtra College of Commerce (BMCC), Pune, followed by leadership as Director at Rajgad Institute of Management Research & Development and key roles at Allana Institute of Management Sciences and Pratibha Institute of Business Management. A former Academic Council Member and Chairman of the Finance Board at SPPU, he has guided 12 Ph.D. and 16 M.Phil. scholars to completion, authored 16 books, and published over 100 research papers.",
+    "portrait": "/images/dr-bharti-portrait.jpg",
+    "secondaryPortrait": "/images/dr-bharti-photo2.jpg",
+    "eventPhoto": "/images/dr-bharti-event.jpg",
+    "cvUrl": "/CV-Dr-Devidas-Bharati.pdf",
+    "academicIdentity": {
+      "linkedin": "https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin",
+      "researchGate": "https://www.researchgate.net/",
+      "academia": "https://independent.academia.edu/DevidasBharati",
+      "googleScholar": "https://scholar.google.co.in/citations?hl=en&user=UZh6L7AAAAAJ",
+      "orcid": "https://orcid.org/0000-0003-1422-0509"
+    }
+  },
+  "metrics": {
+    "experienceYears": "43+",
+    "phdGuided": "12",
+    "mphilGuided": "16",
+    "phdPursuing": "03",
+    "booksAuthored": "16",
+    "researchArticles": "100+"
+  },
+  "corePrinciples": [
+    {
+      "id": 1,
+      "title": "Academic & Institutional Leadership",
+      "description": "Fostering institutional excellence, NAAC/NBA accreditation benchmarks, and proactive university governance."
+    },
+    {
+      "id": 2,
+      "title": "Empirical Research & Ph.D. Mentorship",
+      "description": "Advancing rigorous scholarship in banking, financial markets, forex risk, and microfinance with 12 awarded Ph.D. scholars."
+    },
+    {
+      "id": 3,
+      "title": "Industry-Aligned Financial Pedagogy",
+      "description": "Curriculum innovation, modern accounting decision-making, and seamless integration of taxation reforms like GST."
+    }
+  ],
+  "areasOfExpertise": [
+    "Banking & Finance",
+    "Financial Management",
+    "Advanced Accountancy & Costing",
+    "Direct & Indirect Taxation (GST)",
+    "Enterprise Performance Management",
+    "Ph.D. & M.Phil. Research Guidance",
+    "NAAC & NBA Accreditation Leadership",
+    "Academic Administration & Affiliations",
+    "Curriculum Restructuring & Syllabus Design",
+    "Forex Risk Management & Derivatives"
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Ph.D. in Banking & Finance",
+      "level": "Doctoral Degree",
+      "type": "doctorate",
+      "specialization": "Banking, Finance & Financial Systems",
+      "institution": "Faculty of Commerce & Management, Savitribai Phule Pune University",
+      "year": "Awarded Ph.D.",
+      "highlight": "Approved Ph.D. Guide in Banking & Finance and Financial Management under SPPU."
+    },
+    {
+      "id": 2,
+      "degree": "M. Phil. in Commerce",
+      "level": "Master of Philosophy",
+      "type": "mphil",
+      "specialization": "Commerce & Financial Studies",
+      "institution": "University of Pune",
+      "year": "Post-Graduate Research",
+      "highlight": "Extensive empirical research in commerce, accounting principles, and financial institutions."
+    },
+    {
+      "id": 3,
+      "degree": "Master of Commerce (M.Com.)",
+      "level": "Master's Degree",
+      "type": "masters",
+      "specialization": "Advanced Accountancy & Costing (Grade 'A')",
+      "institution": "University of Pune",
+      "year": "First Class with 'A' Grade",
+      "highlight": "Mastery of advanced accountancy, cost accounting methods, and corporate reporting."
+    },
+    {
+      "id": 4,
+      "degree": "Bachelor of Commerce (B.Com.)",
+      "level": "Bachelor's Degree",
+      "type": "bachelors",
+      "specialization": "Advanced Accountancy & Costing",
+      "institution": "University of Pune",
+      "year": "First Class",
+      "highlight": "Foundational excellence in business laws, accountancy, economics, and taxation."
+    },
+    {
+      "id": 5,
+      "degree": "Master of Business Administration (MBA)",
+      "level": "Master's Degree",
+      "type": "masters",
+      "specialization": "Management Studies",
+      "institution": "Open University (YCMOU)",
+      "year": "Executive Management",
+      "highlight": "Strategic business management, institutional administration, and enterprise leadership."
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Director",
+      "organization": "Rajgad Institute of Management Research & Development, Pune",
+      "tenure": "Former Director",
+      "current": true,
+      "description": "Directed entire academic administration, research cell, institutional governance, AICTE, DTE, University affiliations, and faculty development.",
+      "milestones": [
+        "Led academic, administrative, and statutory governance complying with AICTE, DTE, and SPPU regulations.",
+        "Strengthened research culture resulting in national conferences, faculty publications, and student corporate immersion.",
+        "Smoothly managed teaching and non-teaching personnel, institutional branding, and community outreach."
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Reader & Senior Faculty in Accountancy",
+      "organization": "Brihan Maharashtra College of Commerce (BMCC), Pune",
+      "tenure": "24 Years of Exemplary Service",
+      "current": false,
+      "description": "Served 24 dedicated years at one of India's premier commerce colleges, heading key academic, student welfare, and accreditation initiatives.",
+      "milestones": [
+        "Core Committee Member for NAAC Accreditation at BMCC (twice) with outstanding institutional outcomes.",
+        "Coordinator of the DES-BMCC External Study Center and Coordinator of UGC-sponsored Remedial Courses.",
+        "Coordinated Students Welfare Association and actively led National Service Scheme (NSS) social initiatives."
+      ]
+    },
+    {
+      "id": 3,
+      "role": "Senior Professor & NBA Coordinator",
+      "organization": "Allana Institute of Management Sciences (AIMS), Pune",
+      "tenure": "Senior Academic Leadership",
+      "current": false,
+      "description": "Led management programs, postgraduate research initiatives, and spearheaded institutional quality accreditation.",
+      "milestones": [
+        "Main Coordinator for National Board of Accreditation (NBA) accreditation process at AIMS Pune.",
+        "Recognized Post-Graduate Teacher by papers and research guide for MBA and research scholars.",
+        "Organized national management symposiums and edited research journals on contemporary business finance."
+      ]
+    },
+    {
+      "id": 4,
+      "role": "Director / Senior Academician",
+      "organization": "Pratibha Institute of Business Management (PIBM), Pune",
+      "tenure": "Academic Governance",
+      "current": false,
+      "description": "Contributed to institute development, postgraduate management instruction, and academic quality assurance.",
+      "milestones": [
+        "Mentored faculty on UGC Care publications, case study methodology, and empirical research.",
+        "Coordinated university examinations, research proposals, and corporate academia interface."
+      ]
+    },
+    {
+      "id": 5,
+      "role": "Corporate Management Faculty & Trainer",
+      "organization": "Symbiosis Centre for Distance Learning (SCDL), Pune",
+      "tenure": "Corporate & Distance Education",
+      "current": false,
+      "description": "Conducted high-impact management development programs for postgraduate cohorts across major Indian metropolitan centers.",
+      "milestones": [
+        "Delivered specialized management training in Pune, Mumbai, Chennai, Delhi, Kolkata, and Hyderabad.",
+        "Bridged corporate financial practices with management academic curriculums."
+      ]
+    },
+    {
+      "id": 6,
+      "role": "International Faculty — Banking Program",
+      "organization": "Programme on Banking for Namibians",
+      "tenure": "International Faculty Delegation",
+      "current": false,
+      "description": "Selected as a core teaching faculty member to train delegates and bankers from Namibia in Accountancy.",
+      "milestones": [
+        "Delivered international accounting curriculum to African banking professionals.",
+        "Represented Indian academic excellence in cross-border professional banking training."
+      ]
+    }
+  ],
+  "universityRoles": [
+    "Former Academic Council Member, Savitribai Phule Pune University (SPPU)",
+    "Former Chairman of Finance Board, Faculty of Management, SPPU",
+    "Special Invitee / Ex-Member, Faculty of Commerce and Management, SPPU",
+    "Ex-BOS Member, International Business Management, SPPU",
+    "Ex-Member, Research & Recognition (RR) Committee (Financial Management), SPPU",
+    "Ex-Member, Research & Recognition (RR) Committee (Management), D. Y. Patil University (DPU)",
+    "Former Member, BCUD Sub-committee, Savitribai Phule Pune University",
+    "Ex-Member, Board of Studies (BOS) of Accountancy, University of Pune (2001–2005)",
+    "Convener & Core Member, MBA Syllabus Restructuring Committee (2016 & 2019)",
+    "Convener, Introduction of GST (Goods & Services Tax) into M.Com. and MBA Syllabi (2017)",
+    "Life Member, All India Commerce Association & Life Member, AIMS",
+    "Panel Examiner, Maharashtra Public Service Commission (MPSC), Mumbai",
+    "External Referee for Ph.D. Theses, Barkatullah University Bhopal & Nagpur University"
+  ],
+  "researchScholars": {
+    "phdCompleted": 12,
+    "mphilCompleted": 16,
+    "phdRegistered": 3,
+    "summary": "Recognized Ph.D. Guide in Banking & Finance under Commerce Faculty, and Financial Management under Management Faculty, SPPU. Guided 12 Ph.D. scholars and 16 M.Phil. scholars to the successful award of their degrees."
+  },
+  "booksAuthored": [
+    {
+      "id": 1,
+      "title": "Contemporary Issues in Management: Cases and Caselets",
+      "publisher": "The Virtue, Nashik",
+      "subject": "Strategic Management & Case Studies"
+    },
+    {
+      "id": 2,
+      "title": "Management Accounting",
+      "publisher": "University of Pune / SPPU",
+      "subject": "M.B.A. Post-Graduate Curriculum"
+    },
+    {
+      "id": 3,
+      "title": "Accounting for Business Decisions",
+      "publisher": "Savitribai Phule Pune University (SPPU)",
+      "subject": "M.B.A. Core Financial Decisions"
+    },
+    {
+      "id": 4,
+      "title": "Financial Regulatory Framework",
+      "publisher": "Savitribai Phule Pune University (SPPU)",
+      "subject": "M.B.A. Financial Regulations & Policy"
+    },
+    {
+      "id": 5,
+      "title": "Enterprise Performance Management (EPM)",
+      "publisher": "Savitribai Phule Pune University (SPPU)",
+      "subject": "M.B.A. Performance Metrics & Strategy"
+    },
+    {
+      "id": 6,
+      "title": "Direct Taxation",
+      "publisher": "Savitribai Phule Pune University (SPPU)",
+      "subject": "M.B.A. Corporate Tax Laws"
+    },
+    {
+      "id": 7,
+      "title": "Indirect Taxation (GST)",
+      "publisher": "Savitribai Phule Pune University (SPPU)",
+      "subject": "M.B.A. & M.Com. Goods & Services Tax"
+    },
+    {
+      "id": 8,
+      "title": "Income Tax – II",
+      "publisher": "Savitribai Phule Pune University (SPPU)",
+      "subject": "M.B.A. Advanced Tax Assessment"
+    },
+    {
+      "id": 9,
+      "title": "Management Information Systems (MIS)",
+      "publisher": "Savitribai Phule Pune University (SPPU)",
+      "subject": "M.B.A. Enterprise IT & Information Systems"
+    },
+    {
+      "id": 10,
+      "title": "Basics of Accountancy",
+      "publisher": "University of Pune",
+      "subject": "B.B.A. and B.C.A. Programs"
+    },
+    {
+      "id": 11,
+      "title": "Financial Accountancy",
+      "publisher": "University of Pune",
+      "subject": "F.Y.B.Com. & S.Y.B.Com."
+    },
+    {
+      "id": 12,
+      "title": "Corporate Accounting",
+      "publisher": "University of Pune",
+      "subject": "F.Y.B.Com. & S.Y.B.Com."
+    },
+    {
+      "id": 13,
+      "title": "Accountancy for F.Y.B.Com.",
+      "publisher": "University of Pune",
+      "subject": "Undergraduate Commerce"
+    },
+    {
+      "id": 14,
+      "title": "Accountancy for T.Y.B.Com. & Translator (F.Y., S.Y., T.Y.)",
+      "publisher": "Y.C.M.O.U. Nashik",
+      "subject": "Distance Education Commerce Curriculum"
+    },
+    {
+      "id": 15,
+      "title": "Basics of Marketing",
+      "publisher": "Savitribai Phule Pune University (SPPU)",
+      "subject": "M.B.A. Core Marketing Principles"
+    },
+    {
+      "id": 16,
+      "title": "Accountancy E-Learning Instructional Courseware",
+      "publisher": "Higher Education Learning Systems",
+      "subject": "Digital Accountancy Courseware"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-1",
+      "title": "Dewang Mehta National Education Leadership Award",
+      "category": "awards",
+      "date": "Dewang Mehta Awards • 2019",
+      "awardingBody": "Dewang Mehta National Education Awards",
+      "description": "Conferred the prestigious Education Leadership Award in recognition of outstanding leadership, educational excellence, and significant contribution to management education.",
+      "imageUrl": "/images/dr-bharti-portrait.jpg",
+      "badge": "Leadership Award"
+    },
+    {
+      "id": "ach-2",
+      "title": "Best Teacher Award 2016",
+      "category": "awards",
+      "date": "Excellence in Teaching • 2016",
+      "awardingBody": "Lions Club of Poona & Dr. Ajeenkya D. Y. Patil University",
+      "description": "Honored with the Best Teacher Award by the International Association of Lions Clubs in association with Dr. Ajeenkya D. Y. Patil University Pune for four decades of teaching dedication.",
+      "imageUrl": "/images/dr-bharti-photo2.jpg",
+      "badge": "Best Teacher"
+    },
+    {
+      "id": "ach-3",
+      "title": "Letters of Appreciation & Recognition by SPPU Leadership",
+      "category": "awards",
+      "date": "Statutory Recognition",
+      "awardingBody": "Registrar, Dean & Pro-Vice Chancellor, SPPU",
+      "description": "Received official Letters of Appreciation and Recognition from the Registrar, Dean of Faculty, and Pro-Vice Chancellor of Savitribai Phule Pune University for exceptional university governance and syllabus reforms.",
+      "imageUrl": "/images/dr-bharti-event.jpg",
+      "badge": "SPPU Recognition"
+    },
+    {
+      "id": "ach-4",
+      "title": "Doctoral Research Mentorship — 12 Ph.D. & 16 M.Phil. Awards",
+      "category": "incubation",
+      "date": "Research Milestone",
+      "awardingBody": "Savitribai Phule Pune University (SPPU)",
+      "description": "Recognized research guide who successfully supervised 12 Ph.D. doctorates and 16 M.Phil. dissertations in Banking, Financial Management, Forex Risk, and Capital Markets.",
+      "imageUrl": "/images/dr-bharti-portrait.jpg",
+      "badge": "Ph.D. Guide"
+    },
+    {
+      "id": "ach-5",
+      "title": "Convener for MBA Syllabus Restructuring & GST Curriculum",
+      "category": "keynotes",
+      "date": "Curriculum Milestone • 2016 - 2019",
+      "awardingBody": "Savitribai Phule Pune University",
+      "description": "Led university committees for the complete restructuring of the SPPU MBA syllabus (2016 & 2019) and served as Convener for introducing GST (Goods & Services Tax) into the M.Com. and MBA syllabi.",
+      "imageUrl": "/images/dr-bharti-event.jpg",
+      "badge": "Syllabus Convener"
+    },
+    {
+      "id": "ach-6",
+      "title": "Selected in MPSC Main & Oral Examinations & Panel Examiner",
+      "category": "awards",
+      "date": "Civil & Administrative Merit • 1990",
+      "awardingBody": "Maharashtra Public Service Commission (MPSC)",
+      "description": "Successfully cleared both Main and Oral examinations of the Maharashtra Public Service Commission (MPSC) in 1990 and enrolled on the prestigious Panel of Examiners for MPSC, Mumbai.",
+      "imageUrl": "/images/dr-bharti-photo2.jpg",
+      "badge": "MPSC Qualified"
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "title": "A Study and Implementation of PERT and CPM in a Production Process",
+      "journal": "Purakala (UGC CARE Journal)",
+      "year": "2020",
+      "tags": [
+        "Operations Research",
+        "PERT & CPM",
+        "UGC CARE",
+        "Production Analytics"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "A Study of Women Empowerment through Pradhan Mantri Jan Dhan Yojana Accounts",
+      "journal": "Purakala (UGC CARE Journal), ISSN: 0971-2143",
+      "year": "2020",
+      "tags": [
+        "Financial Inclusion",
+        "Jan Dhan Yojana",
+        "Women Empowerment",
+        "UGC CARE"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Impact of COVID-19 Breakdown on Individual’s Financial Behavior",
+      "journal": "Purakala (UGC CARE Journal), Vol. 31, Issue 8",
+      "year": "2020",
+      "tags": [
+        "Behavioral Finance",
+        "Crisis Economics",
+        "Personal Finance",
+        "UGC CARE"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Use of Forward Contracts as a Forex Risk Management Tool in SME IT & ITES Companies in Pune",
+      "journal": "International Journal of Research and Analytical Reviews, E-ISSN: 2348-1269",
+      "year": "2019",
+      "tags": [
+        "Forex Risk",
+        "Derivatives & Forwards",
+        "SME Finance",
+        "IT & ITES"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "A Study on All Time Priority Investment Sector with Special Reference to Indians",
+      "journal": "International Conference on Business, Management and Governance (Neville Wadia)",
+      "year": "2016",
+      "tags": [
+        "Investment Strategy",
+        "Indian Retail Investors",
+        "Portfolio Allocation"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "How the Prepaid Payment Instruments Repelling the Traditional Payment Instruments?",
+      "journal": "Contemporary Research in India: Peer-Reviewed International Journal, ISSN: 2231-2137",
+      "year": "2017",
+      "tags": [
+        "Digital Payments",
+        "FinTech",
+        "Prepaid Instruments",
+        "Banking"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "A Study of Corporate Bond Market in India and Its Liquidity",
+      "journal": "International Journal of Research in Commerce and Management, ISSN: 0976-2183",
+      "year": "2013",
+      "tags": [
+        "Debt Markets",
+        "Corporate Bonds",
+        "Market Liquidity",
+        "Capital Markets"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Impact of F.D.I. in Retail Sector of India: Matters of Concern",
+      "journal": "International Journal of Business, Management & Social Sciences, ISSN: 2249-7463",
+      "year": "2014",
+      "tags": [
+        "Foreign Direct Investment",
+        "Retail Economics",
+        "Public Policy"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Working Capital Analysis of FMCG Sector Companies in India with the Help of Ratio Analysis",
+      "journal": "International Research Journal of Commerce, Business and Social Sciences",
+      "year": "2013",
+      "tags": [
+        "Financial Ratio Analysis",
+        "Working Capital",
+        "FMCG Sector",
+        "Corporate Finance"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "A Study of Lending Models for Micro Finance Institutions in India",
+      "journal": "Allana Management Journal of Research, Pune",
+      "year": "2013",
+      "tags": [
+        "Microfinance",
+        "Priority Sector Lending",
+        "Credit Delivery Models"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Prof. (Dr.) Devidas B. Bharati — Academic Leadership Portrait",
+      "category": "awards",
+      "date": "Distinguished Academician",
+      "awardingBody": "Former Director & Ph.D. Guide",
+      "description": "Executive portrait of Prof. (Dr.) Devidas B. Bharati, carrying 43+ years of leadership in commerce, management, and doctoral supervision.",
+      "imageUrl": "/images/dr-bharti-portrait.jpg",
+      "tag": "Director Portrait"
+    },
+    {
+      "id": "gal-2",
+      "title": "Keynote Address & National Conference Dignitary Session",
+      "category": "keynotes",
+      "date": "National & International Summits",
+      "awardingBody": "University & Management Forums",
+      "description": "Dr. D. B. Bharati addressing delegates on financial risk, capital markets, and modern curriculum innovations across prestigious forums.",
+      "imageUrl": "/images/dr-bharti-event.jpg",
+      "tag": "Keynote Address"
+    },
+    {
+      "id": "gal-3",
+      "title": "Academic Council & Institutional Governance Conclave",
+      "category": "convocations",
+      "date": "Academic Leadership",
+      "awardingBody": "Savitribai Phule Pune University",
+      "description": "Engaging in university statutory body sessions, finance board governance, and institutional accreditation reviews.",
+      "imageUrl": "/images/dr-bharti-photo2.jpg",
+      "tag": "University Governance"
+    },
+    {
+      "id": "gal-4",
+      "title": "Dewang Mehta National Education Leadership Conclave",
+      "category": "awards",
+      "date": "Dewang Mehta Awards • 2019",
+      "awardingBody": "Dewang Mehta Foundation",
+      "description": "Conferral of the prestigious Education Leadership Award 2019 celebrating pioneering efforts in management education.",
+      "imageUrl": "/images/dr-bharti-portrait.jpg",
+      "tag": "Education Award"
+    },
+    {
+      "id": "gal-5",
+      "title": "Postgraduate Doctoral Research Guidance & Scholar Defense",
+      "category": "mentorship",
+      "date": "Ph.D. & M.Phil. Mentorship",
+      "awardingBody": "Faculty of Commerce & Management",
+      "description": "Mentoring doctoral and post-graduate scholars through empirical research methodology, financial analytics, and thesis defenses.",
+      "imageUrl": "/images/dr-bharti-event.jpg",
+      "tag": "Doctoral Mentorship"
+    },
+    {
+      "id": "gal-6",
+      "title": "Curriculum Restructuring & GST National Workshop",
+      "category": "corporate",
+      "date": "Syllabus Innovation",
+      "awardingBody": "SPPU & Commerce Colleges",
+      "description": "Convening faculty development programs on Indirect Taxation, GST integration, and modern financial management pedagogy.",
+      "imageUrl": "/images/dr-bharti-photo2.jpg",
+      "tag": "GST Workshop"
+    }
+  ],
+  "sppuGovernance": {
+    "title": "Savitribai Phule Pune University (SPPU) Board & Governance",
+    "subtitle": "Over four decades of distinguished statutory governance, academic board chairmanships, syllabus restructuring, examination oversight, and university leadership.",
+    "recognitions": [
+      {
+        "title": "Letter of Appreciation & Recognition",
+        "authority": "Registrar & Dean, Savitribai Phule Pune University",
+        "description": "Formally recognized for pioneering leadership in academic administration, university governance, and comprehensive syllabus reforms."
+      },
+      {
+        "title": "Letter of Appreciation & Recognition",
+        "authority": "Pro-Vice Chancellor, Savitribai Phule Pune University",
+        "description": "Conferred high commendation for dedicated institutional governance and advancing commerce and management education standards."
+      }
+    ],
+    "categories": [
+      {
+        "id": "statutory-boards",
+        "categoryName": "Statutory Boards & University Councils",
+        "badge": "Statutory Authority",
+        "items": [
+          {
+            "role": "Former Academic Council Member",
+            "body": "Savitribai Phule Pune University (SPPU)",
+            "details": "Served on the university's supreme academic authority, determining academic policy, research direction, and faculty regulations."
+          },
+          {
+            "role": "Former Chairman of Finance Board",
+            "body": "Faculty of Management, Savitribai Phule Pune University",
+            "details": "Headed the financial management board, governing university curriculum development, financial pedagogy, and faculty coordination."
+          },
+          {
+            "role": "Special Invitee / Ex-Member",
+            "body": "Faculty of Commerce and Management, SPPU",
+            "details": "Participated in strategic statutory decisions, academic affiliations, interdisciplinary guidelines, and research ethics."
+          },
+          {
+            "role": "Ex-BOS Member — International Business Management",
+            "body": "Commerce and Management Faculty, SPPU",
+            "details": "Contributed to curriculum standardization, credits allocation, and evaluation metrics for international business studies."
+          },
+          {
+            "role": "Ex-Member, Board of Studies (BOS) of Accountancy",
+            "body": "University of Pune (2001 – 2005)",
+            "details": "Designed accountancy curricula, standardized accounting instruction, and regulated standards across undergraduate and postgraduate commerce."
+          },
+          {
+            "role": "Ex-Member, Research & Recognition (RR) Committee",
+            "body": "Financial Management & Management, SPPU",
+            "details": "Evaluated Ph.D. research proposals, synopsis approvals, and guide recognitions for doctoral scholars across Pune University."
+          },
+          {
+            "role": "Former Member, BCUD Sub-Committee",
+            "body": "Board of College and University Development, SPPU",
+            "details": "Oversaw institutional development grants, faculty research projects, and university college quality enhancement initiatives."
+          },
+          {
+            "role": "Ex-Member, RR Committee (Management)",
+            "body": "Dr. D. Y. Patil University (DPU), Pimpri",
+            "details": "Appointed university expert on research and recognition for management doctoral dissertations and scholar evaluations."
+          }
+        ]
+      },
+      {
+        "id": "syllabus-architecture",
+        "categoryName": "Curriculum Design & Syllabus Architecture",
+        "badge": "Academic Reform",
+        "items": [
+          {
+            "role": "MBA Syllabus Restructuring Committee 2016",
+            "body": "Savitribai Phule Pune University",
+            "details": "Entrusted with the entire responsibility of structuring MBA specializations to align with evolving corporate expectations."
+          },
+          {
+            "role": "MBA Syllabus Restructuring Committee 2019",
+            "body": "Savitribai Phule Pune University",
+            "details": "Key architect for Management Accounting and Financial Management curricula in the revised CBCS university framework."
+          },
+          {
+            "role": "Convener — Introduction of GST into Syllabi (Dec 2017)",
+            "body": "SPPU M.Com. and MBA Curriculum Committees",
+            "details": "Appointed Convener to modify Indirect Taxation syllabus, leading the rollout of Goods & Services Tax (GST) across SPPU programs."
+          },
+          {
+            "role": "Undergraduate & Postgraduate Accountancy Restructuring",
+            "body": "University of Pune",
+            "details": "Active contributor in restructuring accountancy syllabi across F.Y.B.Com, S.Y.B.Com, T.Y.B.Com, and M.Com levels."
+          },
+          {
+            "role": "Syllabus Structuring Committee Member",
+            "body": "Sanjay Ghodawat Private University, Kolhapur",
+            "details": "Appointed expert committee member for designing MBA and postgraduate management programs for the newly established private university."
+          }
+        ]
+      },
+      {
+        "id": "examination-governance",
+        "categoryName": "Examination Governance & Doctoral Referees",
+        "badge": "Evaluation & Viva",
+        "items": [
+          {
+            "role": "Chairman & Paper Setter — Ph.D. Entrance Examination (PET)",
+            "body": "Foreign Trade Paper II, University of Pune (Feb 2009)",
+            "details": "Appointed as paper setter and evaluator for university-wide doctoral entrance assessments."
+          },
+          {
+            "role": "Chairman — MBA Viva-Voce Examinations",
+            "body": "University of Pune",
+            "details": "Conducted executive viva-voce examinations and defended student project dissertations across affiliated institutes."
+          },
+          {
+            "role": "Paper Setter, Examiner, Moderator & Chairman",
+            "body": "MBA, MBS, PGDCCM, PGDBF, PGDBM, MMM Annual Exams, SPPU",
+            "details": "Chaired evaluation committees and set annual examination papers for major postgraduate diploma and degree courses."
+          },
+          {
+            "role": "Senior Supervisor for Annual Examinations",
+            "body": "University of Pune",
+            "details": "Headed examination center integrity, confidential processing, and university flying squad protocols."
+          },
+          {
+            "role": "External Ph.D. Thesis Referee & Viva Examiner",
+            "body": "Barkatullah University Bhopal, RTM Nagpur University & SPPU",
+            "details": "Evaluated and adjudicated doctoral theses across commerce, banking, and management faculties."
+          }
+        ]
+      },
+      {
+        "id": "selection-committees",
+        "categoryName": "Statutory Selection Committees & Inspection (LIC)",
+        "badge": "Institutional Quality",
+        "items": [
+          {
+            "role": "Chairman & Member, Local Inquiry Committee (LIC)",
+            "body": "University of Pune",
+            "details": "Conducted statutory college inspections, affiliation verifications, faculty qualification checks, and infrastructure audits."
+          },
+          {
+            "role": "University Subject Expert — Selection of Directors",
+            "body": "Camp Education Society's & Sahyadri Institute of Management, Pune",
+            "details": "Appointed by SPPU Vice-Chancellor as subject expert on statutory selection panels for Institute Directors."
+          },
+          {
+            "role": "University Subject Expert — Faculty Selection Panels",
+            "body": "Professors, Associate Professors & Assistant Professors, SPPU",
+            "details": "Conducted official interviews and UGC CAS evaluations for faculty appointments across Pune University management colleges."
+          },
+          {
+            "role": "Subject Expert for Teachers Fellowship Committee",
+            "body": "Garware College of Commerce, Pune",
+            "details": "Evaluated research proposals and awarded teacher research fellowships under UGC schemes."
+          }
+        ]
+      }
+    ]
+  }
+}

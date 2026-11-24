@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF5FF" />
+      <stop offset="100%" stop-color="#F3E8FF" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="520" rx="16" fill="url(#bgGrad5)"/>
+
+  <g transform="translate(320, 110)">
+    <!-- Research Journal / Open Book -->
+    <path d="M 80 40 C 130 20 180 30 210 50 L 210 180 C 180 160 130 150 80 170 C 30 150 -20 160 -50 180 L -50 50 C -20 30 30 20 80 40 Z" fill="#FFFFFF" stroke="#9333EA" stroke-width="4"/>
+    <line x1="80" y1="40" x2="80" y2="170" stroke="#9333EA" stroke-width="4"/>
+    
+    <!-- Text Lines inside book -->
+    <line x1="-30" y1="80" x2="50" y2="70" stroke="#CBD5E1" stroke-width="4" stroke-linecap="round"/>
+    <line x1="-30" y1="105" x2="40" y2="95" stroke="#CBD5E1" stroke-width="4" stroke-linecap="round"/>
+    <line x1="-30" y1="130" x2="50" y2="120" stroke="#CBD5E1" stroke-width="4" stroke-linecap="round"/>
+
+    <line x1="110" y1="70" x2="190" y2="80" stroke="#CBD5E1" stroke-width="4" stroke-linecap="round"/>
+    <line x1="110" y1="95" x2="180" y2="105" stroke="#CBD5E1" stroke-width="4" stroke-linecap="round"/>
+    <line x1="110" y1="120" x2="190" y2="130" stroke="#CBD5E1" stroke-width="4" stroke-linecap="round"/>
+
+    <!-- Citation / Ribbon -->
+    <path d="M 80 170 L 60 220 L 80 205 L 100 220 Z" fill="#D97706"/>
+  </g>
+
+  <!-- Banner text -->
+  <rect x="120" y="380" width="560" height="85" rx="16" fill="#FFFFFF" fill-opacity="0.95" stroke="#E9D5FF" stroke-width="1.5"/>
+  <text x="400" y="415" font-family="'Plus Jakarta Sans', sans-serif" font-size="20" font-weight="800" fill="#581C87" text-anchor="middle">
+    Scopus Indexed Best Research Paper Award
+  </text>
+  <text x="400" y="445" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="500" fill="#475569" text-anchor="middle">
+    Recognized in Strategic Marketing &amp; Consumer Behavioral Dynamics (2024)
+  </text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0F9FF" />
+      <stop offset="100%" stop-color="#E0F2FE" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="520" rx="16" fill="url(#bgGrad6)"/>
+
+  <!-- Handshake / Industry Partnership -->
+  <g transform="translate(320, 110)">
+    <circle cx="80" cy="100" r="90" fill="#FFFFFF" stroke="#0284C7" stroke-width="4"/>
+    <!-- Handshake SVG silhouette -->
+    <path d="M 20 90 L 50 65 L 75 90 L 60 105 L 40 90 Z" fill="#1E3A8A"/>
+    <path d="M 140 90 L 110 65 L 85 90 L 100 105 L 120 90 Z" fill="#0284C7"/>
+    <path d="M 55 100 L 75 80 L 105 110 L 85 130 Z" fill="#F59E0B"/>
+    <!-- Checkmark badge -->
+    <circle cx="130" cy="50" r="20" fill="#10B981"/>
+    <polyline points="122,50 128,56 139,44" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Banner text -->
+  <rect x="120" y="380" width="560" height="85" rx="16" fill="#FFFFFF" fill-opacity="0.95" stroke="#BAE6FD" stroke-width="1.5"/>
+  <text x="400" y="415" font-family="'Plus Jakarta Sans', sans-serif" font-size="20" font-weight="800" fill="#075985" text-anchor="middle">
+    Strategic Industry MoU &amp; Placement Partnership
+  </text>
+  <text x="400" y="445" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="500" fill="#475569" text-anchor="middle">
+    Signed corporate linkage agreements with Fortune 500 &amp; Incubation partners
+  </text>
+</svg>

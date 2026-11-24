@@ -1,0 +1,23 @@
+{
+  "name": "dr-bharti-mba-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack React & Express portfolio for Director Dr. D. B. Bharti of MBA",
+  "packageManager": "pnpm@9.15.4",
+  "scripts": {
+    "dev": "node dev.js",
+    "start": "node dev.js",
+    "server": "node dev.js",
+    "client": "node dev.js",
+    "build": "pnpm --filter dr-bharti-portfolio-client build"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  }
+}
